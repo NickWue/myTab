@@ -1,0 +1,223 @@
+{
+    "ersteschritte_layouttext":{
+		"message":"Das Layout: Links finden Sie ihre wichtigsten Websiten. In der Mitte der Seite finden Sie ihre ausgew&auml;hlten Karten, z.B. das Wetter, Notizen, oder anderes."
+	},
+	"ersteschritte_settingstext":{
+		"message":"Dr&uuml;cken Sie die STRG Taste, oder auf den Einstellungsbutton (Rechts oben), um in den Einstellungsmodus zu wechseln. Hier k&ouml;nnen Sie neue Karten ausw&auml;hlen, Karten per Drag'n'Drop l&ouml;schen, sowie z.B. das Hintergrundbild wechseln."
+	},
+	"ersteschritte_welcometext":{
+		"message":"Herzlich Willkommen bei MyTab, der neuen tollen frei anpassbaren New Tab Page f&uuml;r Chrome! Damit der Einstieg nicht so schwer f&auml;llt, wird dieser Guide Ihnen die Grundlegenden Funktionen des Programms erkl&auml;ren!<br/>"
+	},
+	"ersteschritte_ready":{
+		"message":"Herzlichen Gl&uuml;ckwunsch, das Tutorial ist nun abgeschlossen! Probieren Sie es doch gleich aus!"
+	},
+	"next":{
+		"message":"N&auml;chster Schritt"
+	},
+	"prev":{
+		"message":"Vorheriger Schritt"
+	},
+	"ready":{
+		"message":"Abschlie&szlig;en!"
+	},
+	"clicktoleavechangemode":{
+		"message":"Klicke um den Modus zu verlassen!"
+	},
+	"changemodeisactive":{
+		"message":"Bearbeitungsmodus ist aktiv!"
+	},
+	"showbigdauerhaft":{
+		"message":"Anpinnen"
+	},
+	"showlitedauerhaft":{
+		"message":"Abpinnen"
+	},
+	"lang_name":{
+		"message":"de"
+	},
+	"settings":{
+		"message":"Einstellungen!"
+	},
+	"no_new_cards":{
+		"message":"Alle empfohlenen Karten sind schon ausgew&auml;hlt. Online k&ouml;nnen Sie aber noch andere Karten entdecken."
+	},
+	"noch_keine_cards_headline":{
+		"message":"Noch keine Karten!"
+	},
+	"noch_keine_cards":{
+		"message":"Sie  haben noch keine Karten ausgew&auml;hlt! Karten k&ouml;nnen im Bearbeitungsmodus ausgew&auml;hlt werden. Dr&uuml;cken Sie \"STRG\" oder auf die Bearbeitungstaste am linken unteren Rand. Am rechten Rand k&ouml;nnen Sie nun eine Karte Ihrer Wahl ausw&auml;hlen, die dann in der Hauptansicht gezeigt wird (z.B. das Wetter, Nachrichten, Zuletzt besuchte Websiten, und vieles mehr)!"
+	},
+	"spenden_headline":{
+		"message":"Spenden"
+	},
+	"spenden":{
+		"message":"Diese Extension war sehr viel Arbeit, und der 16J&auml;hrige Entwickler verdient keinen Cent daran.  Spende doch etwas wenn dir myTab gef&auml;llt!"
+	},
+	"laden":{
+		"message":"Lade..."
+	},
+	"unread":{
+		"message":"Ungelesen"
+	},
+	"gmailerror":{
+		"message":"Entschuldigung, da ist was schief gelaufen! Sie m&uuml;ssen in ihren Gmail Account eingeloggt sein!"
+	},
+	"karte_muss_eingestellt_werden":{
+		"message":"Klicke auf das Einstellungsrad neben der &Uuml;berschrift, um die Karte einzustellen."
+	},
+	"falscher_link":{
+		"message":"Scheinbar hast du einen falschen link eingegeben!"
+	},
+	"link_zu_benachrichtiung":{
+		"message":"Geben Sie hier den Link zu Ihren Benachrichtigungen an!"
+	},
+	"link_source":{
+		"message":"Wo Sie den Link herbekommen."
+	},
+	"page_to_launch":{
+		"message":"Auszuf&uuml;hrende Seite"
+	},
+	"wetter_warning":{
+		"message":"Achtung: beim Neuladen der Seite geht der Wecker verloren!!! "
+	},
+	"link_source":{
+		"message":"Wo Sie den Link herbekommen."
+	},
+	"notes":{
+		"message":"Notizen"
+	},
+	"notes_content":{
+		"message":"Noch keine Notiz angelegt! <br/> Klicke auf den + Button um das zu tun!"
+	},
+	"new_note":{
+		"message":"Neue Notiz"
+	},
+	"new_note_explain":{
+		"message":" Mit einem Komma Zeichen k&ouml;nnen direkt mehrere Notizen erstellt werden!"
+	},
+	"bookmarks":{
+		"message":"Lesezeichen"
+	},
+	"no_bookmarks":{
+		"message":"Keine Bookmarks vorhanden!"
+	},
+	"recentlyclosed":{
+		"message":"Zuletzt aufgerufene Seiten"
+	},
+	"topnews":{
+		"message":"Nachrichten"
+	},
+	"news":{
+		"message":"Nachrichten"
+	},
+	"domain_for_news":{
+		"message":"de",
+		"describsion":"Domainendung bei Link von Google News (com fuer Englisch, de fuer Deutsch)"
+	},
+	"Wetter":{
+		"message":"Wetter"
+	},
+	"weather":{
+		"message":"Wetter"
+	},
+	"for":{
+		"message":"in"
+	},
+	"wettertyp":{
+		"message":"Wettertyp"
+	},
+	"luftfeuchtigkeit":{
+		"message":"Luftfeuchtigkeit"
+	},
+	"max_temp":{
+		"message":"Max. Temperatur"
+	},
+	"min_temp":{
+		"message":"Max. Temperatur"
+	},
+	"more_infos":{
+		"message":"Mehr Infos"
+	},
+	"weather_error":{
+		"message":"Da ist leider etwas schiefgelaufen!"
+	},
+	"ort_eingeben":{
+		"message":"Ort/PLZ/ZIP-Code eingeben"
+	},
+	
+	"change_bg":{
+		"message":"Hier klicken um das Hintergrundbild zu &auml;ndern!"
+	},
+	"donate":{
+		"message":"Spenden"
+	},
+	"share":{
+		"message":"Teilen"
+	},
+	"settings":{
+		"message":"Einstellungen"
+	},
+	"most_visited":{
+		"message":"Mei&szlig;tbesucht"
+	},
+	"add_card":{
+		"message":"Karte hinzuf&uuml;gen"
+	},
+	"suggest":{
+		"message":"Karte vorschlagen"
+	},
+	"add_card":{
+		"message":"Karte hinzuf&uuml;gen"
+	},
+	"save":{
+		"message":"Speichern"
+	},
+	"cancel":{
+		"message":"Abbrechen"
+	},
+	"about_me_headline":{
+		"message":"&Uuml;ber mich"
+	},
+	"about_me":{
+		"message":"Ein kleiner Text &uuml;ber mich...."
+	},
+	"legals_licences":{
+		"message":"Lizenzen &amp; Impressum"
+	},
+	"copyright":{
+		"message":"&copy; 2014 by NickW.de - Alle Rechte vorbehalten"
+	},
+	"licences":{
+		"message":"Lizenzen"
+	},
+	"remove_card":{
+		"message":"Karte l&ouml;schen"
+	},
+	"add_card_from_nickw":{
+		"message":"Andere Karten"
+	},
+	"dont_show_hinweis":{
+		"message":"Diesen Hinweis nicht mehr zeigen"
+	},
+	"support":{
+		"message":"Unterst&uuml;tzen"
+	},
+	"joke_headline":{
+		"message":"Witz"
+	},
+	"joke":{
+		"message":"Witz"
+	},
+	"wecker":{
+		"message":"Wecker"
+	},
+	"set_alarm":{
+		"message":"Alarm Einstellen"
+	},
+	"bewerten":{
+		"message":"myTab Bewerten"
+	},
+	"font_size":{
+		"message":"Schriftgr&ouml;&szlig;e"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"manifest_version": 2,
+	"name": "myTab New Tab Page",
+	"short_name": "myTab",
+	"version": "1.1",
+	
+	"default_locale": "en",
+	"description": "Change your new tab page, to an informal and great looking page.",
+	
+	"chrome_url_overrides" : {
+		"newtab": "newtab.html"
+	},
+	"icons": {"128": "mytab_logo.png" },
+	"author": "NickW.de",
+	
+	"content_security_policy":"script-src 'self' 'unsafe-eval' https://nickw.de; object-src",
+
+	"permissions": [
+		"storage",
+		"chrome://favicon/*",
+		"topSites"
+	],
+	"optional_permissions": [ 
+		
+		"http://www.google.com/",
+		"bookmarks",
+		"sessions",
+		"history",
+		"https://news.google.com/*",
+		"https://www.facebook.com/*",
+		"https://api.icndb.com/jokes/random",
+		"https://mail.google.com/mail",
+		"http://api.openweathermap.org/*",
+		"management"
+	]
+}

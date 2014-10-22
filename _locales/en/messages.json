@@ -1,0 +1,271 @@
+{
+    "ersteschritte_layouttext":{
+		"message":"Das Layout: Links finden Sie ihre wichtigsten Websiten. In der Mitte der Seite finden Sie ihre ausgew&auml;hlten Karten, z.B. das Wetter, Notizen, oder anderes.",
+		"describsion":"Das Layout: Links finden Sie ihre wichtigsten Websiten. In der Mitte der Seite finden Sie ihre ausgew&auml;hlten Karten, z.B. das Wetter, Notizen, oder anderes."
+	},
+	"ersteschritte_settingstext":{
+		"message":"Dr&uuml;cken Sie die STRG Taste, oder auf den Einstellungsbutton (Rechts oben), um in den Einstellungsmodus zu wechseln. Hier k&ouml;nnen Sie neue Karten ausw&auml;hlen, Karten per Drag'n'Drop l&ouml;schen, sowie z.B. das Hintergrundbild wechseln.",
+		"describsion":"Dr&uuml;cken Sie die STRG Taste, oder auf den Einstellungsbutton (Rechts oben), um in den Einstellungsmodus zu wechseln. Hier k&ouml;nnen Sie neue Karten ausw&auml;hlen, Karten per Drag'n'Drop l&ouml;schen, sowie z.B. das Hintergrundbild wechseln."
+	},
+	"ersteschritte_welcometext":{
+		"message":"Herzlich Willkommen bei MyTab, der neuen tollen frei anpassbaren New Tab Page f&uuml;r Chrome! Damit der Einstieg nicht so schwer f&auml;llt, wird dieser Guide Ihnen die Grundlegenden Funktionen des Programms erkl&auml;ren!<br/>",
+		"describsion":"Herzlich Willkommen bei MyTab, der neuen tollen frei anpassbaren New Tab Page f&uuml;r Chrome! Damit der Einstieg nicht so schwer f&auml;llt, wird dieser Guide Ihnen die Grundlegenden Funktionen des Programms erkl&auml;ren!<br/>"
+	},
+	"ersteschritte_ready":{
+		"message":"Herzlichen Gl&uuml;ckwunsch, das Tutorial ist nun abgeschlossen! Probieren Sie es doch gleich aus!",
+		"describsion":"Herzlichen Gl&uuml;ckwunsch, das Tutorial ist nun abgeschlossen! Probieren Sie es doch gleich aus!"
+	},
+	"next":{
+		"message":"Next",
+		"describsion":"N&auml;chster Schritt"
+	},
+	"prev":{
+		"message":"Prev",
+		"describsion":"Vorheriger Schritt"
+	},
+	"ready":{
+		"message":"Finish!",
+		"describsion":"Abschlie&szlig;en!"
+	},
+	"clicktoleavechangemode":{
+		"message":"Click to leave changemode!",
+		"describsion":"Klicke um den Modus zu verlassen!"
+	},
+	"changemodeisactive":{
+		"message":"Changemode is activated!",
+		"describsion":"Bearbeitungsmodus ist aktiv!"
+	},
+	"showbigdauerhaft":{
+		"message":"Pin Navigation",
+		"describsion":"Zeige das gro&szlig;e Men&uuml; dauerhaft!"
+	},
+	"showlitedauerhaft":{
+		"message":"Unpin Navigation",
+		"describsion":"Zeige das kleine Men&uuml; dauerhaft!"
+	},
+	"lang_name":{
+		"message":"en",
+		"describsion":"de"
+	},
+	"settings":{
+		"message":"Settings!",
+		"describsion":"Einstellungen!"
+	},
+	"no_new_cards":{
+		"message":"You've selected all recommended cards. You can find other great cards online.",
+		"describsion":"Alle empfohlenen Karten sind schon ausgew&auml;hlt. Online k&ouml;nnen Sie aber noch andere Karten entdecken."
+	},
+	"noch_keine_cards_headline":{
+		"message":"No cards selected!",
+		"describsion":"Noch keine Karten!"
+	},
+	"noch_keine_cards":{
+		"message":"You have no selected cards! You can select cards in the changemode. Press \"STRG\" or the gear at the bottom left border to toggle the changemode. Now you can init the cards you want, for example the weather, news, or even more.",
+		"describsion":"Sie haben noch keine Karten ausgew&auml;hlt! Karten k&ouml;nnen im Bearbeitungsmodus ausgew&auml;hlt werden. Dr&uuml;cken Sie \"STRG\" oder das Zahnrad am oberen rechten Rand um in den Bearbeitungsmodus zu wechseln. Am rechten Rand k&ouml;nnen Sie nun eine Karte Ihrer Wahl ausw&auml;hlen, die dann in der Hauptansicht gezeigt wird (z.B. das Wetter, Nachrichten, Zuletzt besuchte Websiten, und vieles mehr)!"
+	},
+	"spenden_headline":{
+		"message":"Donate",
+		"describsion":"Spenden"
+	},
+	"spenden":{
+		"message":"This extension was lot of work for the 16 year old developer. MyTab is free, so the developer earns no cent from it. You can donate if you like myTab!",
+		"describsion":"Diese Extension war sehr viel Arbeit, und der 16J&auml;hrige Entwickler verdient keinen Cent daran.  Spende doch etwas wenn dir myTab gef&auml;llt! :) "
+	},
+	"laden":{
+		"message":"Loading...",
+		"describsion":"Lade..."
+	},
+	"unread":{
+		"message":"Unread",
+		"describsion":"Ungelesen"
+	},
+	"gmailerror":{
+		"message":"Sorry, you've to be logged into you gmail account.",
+		"describsion":"Entschuldigung, da ist was schief gelaufen! Sie m&uuml;ssen in ihren Gmail Account eingeloggt sein!"
+	},
+	"karte_muss_eingestellt_werden":{
+		"message":"Press on the settingsymbol on the card to make important settings for this card.",
+		"describsion":"Klicke auf das Einstellungsrad neben der &Uuml;berschrift, um die Karte einzustellen."
+	},
+	"falscher_link":{
+		"message":"Something went wrong! Maby you've entered the wrong link.",
+		"describsion":"Scheinbar hast du einen falschen link eingegeben!"
+	},
+	"link_zu_benachrichtiung":{
+		"message":"Enter the link to your notifications",
+		"describsion":"Geben Sie hier den Link zu Ihren Benachrichtigungen an!"
+	},
+	"link_source":{
+		"message":"How to get this link",
+		"describsion":"Wo Sie den Link herbekommen."
+	},
+	"page_to_launch":{
+		"message":"Page to launch",
+		"describsion":"Auszuf&uuml;hrende Seite"
+	},
+	"wetter_warning":{
+		"message":"Pay attention! If you reload the page, your alarm clock will be removed!",
+		"describsion":"Achtung: beim Neuladen der Seite geht der Wecker verloren!!! "
+	},
+	"notes":{
+		"message":"Notes",
+		"describsion":"Notizen"
+	},
+	"notes_content":{
+		"message":"You have no notes, click on the plus to add one!",
+		"describsion":"Noch keine Notiz angelegt! <br/> Klicke auf den + Button um das zu tun!"
+	},
+	"new_note":{
+		"message":"New Note",
+		"describsion":"Neue Notiz"
+	},
+	"new_note_explain":{
+		"message":"you can separate several notes with a comma!",
+		"describsion":" Mit einem Komma Zeichen k&ouml;nnen direkt mehrere Notizen erstellt werden!"
+	},
+	"bookmarks":{
+		"message":"Bookmarks",
+		"describsion":"Lesezeichen"
+	},
+	"no_bookmarks":{
+		"message":"There aren't any Bookmarks!",
+		"describsion":"Keine Bookmarks vorhanden!"
+	},
+	"recentlyclosed":{
+		"message":"Recently Closed",
+		"describsion":"Zuletzt aufgerufene Seiten"
+	},
+	"topnews":{
+		"message":"News",
+		"describsion":"Nachrichten"
+	},
+	"news":{
+		"message":"News",
+		"describsion":"Nachrichten"
+	},
+	"domain_for_news":{
+		"message":"com"
+	},
+	"wetter":{
+		"message":"weather",
+		"describsion":"Wettervorhersage"
+	},
+	"weather":{
+		"message":"weather",
+		"describsion":"Wettervorhersage"
+	},
+	"for":{
+		"message":"in",
+		"describsion":"f&uuml;r"
+	},
+	"wettertyp":{
+		"message":"Weather",
+		"describsion":"Wettertyp"
+	},
+	"luftfeuchtigkeit":{
+		"message":"Humanity",
+		"describsion":"Luftfeuchtigkeit"
+	},
+	"max_temp":{
+		"message":"Max. Temp.",
+		"describsion":"Max. Temperatur"
+	},
+	"min_temp":{
+		"message":"Max. Temp.",
+		"describsion":"Max. Temperatur"
+	},
+	"more_infos":{
+		"message":"More Infos",
+		"describsion":"Mehr Infos"
+	},
+	"weather_error":{
+		"message":"Sorry, something went wrong!",
+		"describsion":"Da ist leider etwas schiefgelaufen!"
+	},
+	"ort_eingeben":{
+		"message":"enter your location",
+		"describsion":"Ort/PLZ/ZIP-Code eingeben"
+	},
+	
+	"change_bg":{
+		"message":"Click to change background-image!",
+		"describsion":"Hier klicken um das Hintergrundbild zu &auml;ndern!"
+	},
+	"donate":{
+		"message":"Donate",
+		"describsion":"Spenden"
+	},
+	"share":{
+		"message":"Share",
+		"describsion":"Teilen"
+	},
+	"settings":{
+		"message":"Settings",
+		"describsion":"Einstellungen"
+	},
+	"most_visited":{
+		"message":"Most-visited",
+		"describsion":"Mei&szlig;t besucht"
+	},
+	"suggest":{
+		"message":"Suggest a card",
+		"describsion":"Karte vorschlagen"
+	},
+	"add_card":{
+		"message":"Add new card",
+		"describsion":"Hinzuf&uuml;gen"
+	},
+	"save":{
+		"message":"Save",
+		"describsion":"Speichern"
+	},
+	"cancel":{
+		"message":"Cancel",
+		"describsion":"Abbrechen"
+	},
+	"about_me_headline":{
+		"message":"About Me"
+	},
+	"about_me":{
+		"message":"A short text about me"
+	},
+	"legals_licences":{
+		"message":"Legals &amp; licences"
+	},
+	"copyright":{
+		"message":"&copy; 2014 by NickW.de - All rights reservered."
+	},
+	"licences":{
+		"message":"licences"
+	},
+	"remove_card":{
+		"message":"remove card"
+	},
+	"add_card_from_nickw":{
+		"message":"Other cards"
+	},
+	"dont_show_hinweis":{
+		"message":"Don't show this hint"
+	},
+	"support":{
+		"message":"Support"
+	},
+	"joke_headline":{
+		"message":"Joke"
+	},
+	"joke":{
+		"message":"Joke"
+	},
+	"wecker":{
+		"message":"alarm clock"
+	},
+	"set_alarm":{
+		"message":"set alarm"
+	},
+	"bewerten":{
+		"message":"Rate myTab"
+	},
+	"font_size":{
+		"message":"font size"
+	}
+}
