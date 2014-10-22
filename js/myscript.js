@@ -156,6 +156,7 @@ function initcard(id){
 
 	thiscard[id].init();
 	if ('support,design'.split(',').indexOf(id) > -1) $('#'+'support,design'.split(',')['support,design'.split(',').indexOf(id)]).zIndex(600);	
+	jscss();
 }
 function shapeit(){
 	if (typeof(sso) == 'undefined'){
@@ -267,6 +268,7 @@ function firststart(){
 	if (typeof(localStorage["activatedcards"]) == 'undefined') localStorage["activatedcards"] = '';
 	if (typeof(localStorage['own-css-data']) == 'undefined') localStorage['own-css-data'] = '';	
 	if (typeof(localStorage['body-padding-top']) == 'undefined') localStorage['body-padding-top'] = '15';
+	if (typeof(localStorage['fontsize']) == 'undefined') localStorage['fontsize'] = '18';
 }
 function jscss(){
 	var date = new Date();
@@ -278,4 +280,5 @@ function jscss(){
 	$('body').css('-webkit-background-size','cover');
 	$('body').css('background-size','cover');	
 	$('.card .content').css('font-size',localStorage['fontsize']); 	
+	shapeit();
 }
