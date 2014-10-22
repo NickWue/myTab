@@ -542,7 +542,7 @@ var MMCQ = (function() {
           $children = this.$container.children(options.selector);
           if ($children.length === 0) {
             errors = true;
-            console.error("" + error_msg + " option colWidth must be specified if Shapeshift is initialized with no active children.");
+            //console.error("" + error_msg + " option colWidth must be specified if Shapeshift is initialized with no active children.");
           }
         }
         return !errors;

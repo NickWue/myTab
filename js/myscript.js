@@ -159,14 +159,16 @@ function initcard(id){
 	jscss();
 }
 function shapeit(){
-	if (typeof(sso) == 'undefined'){
-		sso = {
-			minColumns: 3,
-			enableDrag: false,
-			animateOnInit: true
-		};
-	}	
-	ss = $('#card-slider ul#cansort').shapeshift(sso);
+	if ($('#nocards').length == 0){
+		if (typeof(sso) == 'undefined'){
+			sso = {
+				minColumns: 3,
+				enableDrag: false,
+				animateOnInit: true
+			};
+		}	
+		ss = $('#card-slider ul#cansort').shapeshift(sso);
+	}
 }
 
 function checkpermission(id,permission){
@@ -223,7 +225,7 @@ function getmsg(string){
 function initevents(){
 	$(document).ajaxComplete(function(event,request, settings) {
 		shapeit();
-		tabpage.jscss();
+		jscss();
 	});
 	$('input#fontsize').change(function(){
 		$('.card .content').css('font-size',$(this).val()); 
@@ -280,5 +282,4 @@ function jscss(){
 	$('body').css('-webkit-background-size','cover');
 	$('body').css('background-size','cover');	
 	$('.card .content').css('font-size',localStorage['fontsize']); 	
-	shapeit();
 }
