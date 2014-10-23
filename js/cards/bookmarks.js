@@ -14,7 +14,7 @@ function bookmarks(){
 					for (b=0;b<=list[0].children[a].children.length;b++){
 						if (typeof(list[0].children[a].children[b]) != 'undefined'){
 							if (typeof(list[0].children[a].children[b].children) == 'undefined'){
-								$('#bookmarks .content').append('<li><img src="chrome://favicon/'+list[0].children[a].children[b].url+'" width="25"/><a href="'+list[0].children[a].children[b].url+'">'+ list[0].children[a].children[b].title+'</a></li>');
+								$('#bookmarks .content').append('<li><a href="'+list[0].children[a].children[b].url+'"><img src="chrome://favicon/'+list[0].children[a].children[b].url+'" width="25"/>&nbsp;'+ list[0].children[a].children[b].title+'&nbsp;</a></li>');
 							}
 						}	
 					}
