@@ -80,15 +80,15 @@
 		"describsion":"Ungelesen"
 	},
 	"gmailerror":{
-		"message":"Sorry, you've to be logged into you gmail account.",
+		"message":"Sorry, you've to be logged into your gmail account.",
 		"describsion":"Entschuldigung, da ist was schief gelaufen! Sie m&uuml;ssen in ihren Gmail Account eingeloggt sein!"
 	},
 	"karte_muss_eingestellt_werden":{
-		"message":"Press on the settingsymbol on the card to make important settings for this card.",
+		"message":"Press the settingsymbol on the card to make important settings for this card.",
 		"describsion":"Klicke auf das Einstellungsrad neben der &Uuml;berschrift, um die Karte einzustellen."
 	},
 	"falscher_link":{
-		"message":"Something went wrong! Maby you've entered the wrong link.",
+		"message":"Something went wrong! Maybe you've entered the wrong link.",
 		"describsion":"Scheinbar hast du einen falschen link eingegeben!"
 	},
 	"link_zu_benachrichtiung":{
@@ -120,7 +120,7 @@
 		"describsion":"Neue Notiz"
 	},
 	"new_note_explain":{
-		"message":"you can separate several notes with a comma!",
+		"message":"You can separate several notes with a comma!",
 		"describsion":" Mit einem Komma Zeichen k&ouml;nnen direkt mehrere Notizen erstellt werden!"
 	},
 	"bookmarks":{
@@ -163,7 +163,7 @@
 		"describsion":"Wettertyp"
 	},
 	"luftfeuchtigkeit":{
-		"message":"Humanity",
+		"message":"Humidity",
 		"describsion":"Luftfeuchtigkeit"
 	},
 	"max_temp":{
@@ -175,7 +175,7 @@
 		"describsion":"Max. Temperatur"
 	},
 	"more_infos":{
-		"message":"More Infos",
+		"message":"More Info",
 		"describsion":"Mehr Infos"
 	},
 	"weather_error":{
