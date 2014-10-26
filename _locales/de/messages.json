@@ -1,16 +1,4 @@
 {
-    "ersteschritte_layouttext":{
-		"message":"Das Layout: Links finden Sie ihre wichtigsten Websiten. In der Mitte der Seite finden Sie ihre ausgew&auml;hlten Karten, z.B. das Wetter, Notizen, oder anderes."
-	},
-	"ersteschritte_settingstext":{
-		"message":"Dr&uuml;cken Sie die STRG Taste, oder auf den Einstellungsbutton (Rechts oben), um in den Einstellungsmodus zu wechseln. Hier k&ouml;nnen Sie neue Karten ausw&auml;hlen, Karten per Drag'n'Drop l&ouml;schen, sowie z.B. das Hintergrundbild wechseln."
-	},
-	"ersteschritte_welcometext":{
-		"message":"Herzlich Willkommen bei MyTab, der neuen tollen frei anpassbaren New Tab Page f&uuml;r Chrome! Damit der Einstieg nicht so schwer f&auml;llt, wird dieser Guide Ihnen die Grundlegenden Funktionen des Programms erkl&auml;ren!<br/>"
-	},
-	"ersteschritte_ready":{
-		"message":"Herzlichen Gl&uuml;ckwunsch, das Tutorial ist nun abgeschlossen! Probieren Sie es doch gleich aus!"
-	},
 	"next":{
 		"message":"N&auml;chster Schritt"
 	},
