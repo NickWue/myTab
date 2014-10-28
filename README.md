@@ -1,17 +1,18 @@
-myTab
+#myTab
 =====
 
-Change your new tab page, to an informal and great looking page.
+#####"You have to feel it"  - a users opinion about myTab. This extension provides you with a great productivity increment and a lot of useful information in your new tab. Download: https://goo.gl/VRsFZ2
 
-The first Open Source New tab Page for Google Chrome! 
+###The first open source Newtab-Page for Google Chrome! 
 
-What can you do here? 
-You can add background images (please check license before), you can add cards (if you are a programmer), you can do bugfixes, and you can add languaes files for your language. 
+<ul>
+<li>Add your own lanugage! </li>
+<li>Add a card which is helpful for everyone </li>
+<li>Upload an awesome (free licensed) image </li>
+<li>Help with finding all the bugs</li>
+</ul>
 
-If you have any questions contact mytab@nickw.de or write a message on github. 
+####What you are allowed to do, and what not: 
+<p> You can download myTab and make it better. Please load it up in this repository again, because your update should help every user. Thank you very much. </p>
 
-Download myTab here: goo.gl/VRsFZ2 
 
-Have fun! 
-
-btw: you can download this software, but only to change the code. Please upload it again here. And don't steal the code and load up another myTab in the Webstore. Thanks. 
