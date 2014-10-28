@@ -1,5 +1,4 @@
 #myTab
-=====
 
 #####"You have to feel it"  - a users opinion about myTab. This extension provides you with a great productivity increment and a lot of useful information in your new tab. Download: https://goo.gl/VRsFZ2
 
