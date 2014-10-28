@@ -1160,3 +1160,32 @@ li.card{
 	padding-left:20px;
 	width:85%;
 }
+
+/* Suggest a card link */
+#suggest{
+	width:1000px;
+	margin:0 auto;
+}	
+#suggest input[type='text']{
+	width: 295px;
+	margin-right:10px;
+	height: 30px;
+	margin-bottom:10px;
+}
+#suggest textarea{
+	width:600px;
+	height:300px;
+	margin-bottom:10px;
+}
+#suggest h1{
+	color:white;
+	font-size:2.5em;
+	padding-top:5px;
+}
+#suggest .back_suggest{
+	font-size:16px;
+	padding-left:15px;
+	position:relative;
+	top:-5px;
+	color:white;
+}

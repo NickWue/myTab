@@ -226,6 +226,9 @@ function initevents(){
 		shapeit();
 		jscss();
 	});
+	$('#suggest .send').click(function(){
+		if ($('.form_name').val().length > 0) window.location = "https://nickw.de/myTab/suggest.php?name="+$('.form_name').val()+"&email="+$('.form_email').val()+"&more="+$('.form_more').val();
+	});
 	$('input#fontsize').change(function(){
 		$('.card .content').css('font-size',$(this).val()); 
 		localStorage['fontsize'] = $(this).val();
@@ -282,3 +285,4 @@ function jscss(){
 	$('body').css('background-size','cover');	
 	$('.card .content').css('font-size',localStorage['fontsize']); 	
 }
+
