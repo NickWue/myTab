@@ -39,22 +39,4 @@ A new Card Object need these attributes:
 <li> init: function: this function happens everytime the page get loads and the card is init.</li>
 <li> optional if the card has settings or plus: you need the both functions settings (this will happen if the user click on the gear or plus, and the function apply will run if the user apply.</li>
 </ul>
-Here is an example. It's the "apps" card
-<code>
-function apps(){
-	this.headline = 'Apps';
-	this.content = '';
-	this.showsettings = false;
-	this.permission = 'management';
-	this.origin = '';
-	this.init = function(){
-		chrome.management.getAll(function(data){
-			for (i=1;i<=data.length-1;i++){
-				if (data[i].type == 'hosted_app'){
-					$('#apps .content').append("<li><a href='"+data[i].appLaunchUrl+"'><img width='16' src='"+data[i].icons[0].url+"'/>"+data[i].name+"</a></li>");
-				}
-			}
-		});
-	}
-}
-</code>
+Watch out the the cards file! There are examples for everything you will need.
