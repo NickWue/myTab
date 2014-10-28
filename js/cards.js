@@ -1,4 +1,6 @@
 /* ALL CARDS IN ONE FILE */
+allcards = 'Bookmarks,apps,Wecker,RecentlyClosed,Weather,News,Gmail,Facebook,Joke,Notes'.split(",");
+
 // Apps
 function apps(){
 	this.headline = 'Apps';

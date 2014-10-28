@@ -30,7 +30,6 @@ function newtabpage(){
 	}
 
 	this.initcards = function(){
-		this.allcards = 'Bookmarks,apps,Wecker,RecentlyClosed,Weather,News,Gmail,Facebook,Joke,Notes'.split(",");
 		this.activecards = localStorage["activatedcards"].split(" ");
 		
 		for (i=0;i<=this.activecards.length-1;i++){
@@ -52,8 +51,8 @@ function newtabpage(){
 	this.refreshavaiblecards = function(){	
 		$('#settingsbar .addnewcard').html('');
 		this.activecards = localStorage["activatedcards"].split(" ");
-		for (i=0;i<=this.allcards.length-1;i++){
-			if(this.activecards.indexOf(this.allcards[i].toLowerCase()) < 0) $('#settingsbar .addnewcard').append('<li><a href="#" card="'+this.allcards[i]+'">'+(getmsg(this.allcards[i]).length>0?getmsg(this.allcards[i]):this.allcards[i])+'</a></li>');
+		for (i=0;i<=allcards.length-1;i++){
+			if(this.activecards.indexOf(allcards[i].toLowerCase()) < 0) $('#settingsbar .addnewcard').append('<li><a href="#" card="'+allcards[i]+'">'+(getmsg(allcards[i]).length>0?getmsg(allcards[i]):allcards[i])+'</a></li>');
 		}
 		if ($('.addnewcard li').length == 0) $('#settingsbar .addnewcard').append('<p>'+getmsg("no_new_cards")+'</p>');
 		$('.addnewcard a').click(function(){
