@@ -1,0 +1,8 @@
+Coming Cards:
+Google Search Box with Mic -> maby voice assistant api?
+Google+ Feed
+Google Calendar 
+YouTube
+Digg
+Custom RSS Feed -> where does myTab get the permission to access all sites?
+Google Keep Notes
