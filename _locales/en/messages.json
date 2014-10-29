@@ -1,211 +1,160 @@
 {
 	"next":{
-		"message":"Next",
-		"describsion":"N&auml;chster Schritt"
+		"message":"Next"
 	},
 	"prev":{
-		"message":"Prev",
-		"describsion":"Vorheriger Schritt"
+		"message":"Prev"
 	},
 	"ready":{
-		"message":"Finish!",
-		"describsion":"Abschlie&szlig;en!"
+		"message":"Finish!"
 	},
 	"clicktoleavechangemode":{
-		"message":"Click to leave changemode!",
-		"describsion":"Klicke um den Modus zu verlassen!"
+		"message":"Click to leave changemode!"
 	},
 	"changemodeisactive":{
-		"message":"Changemode is activated!",
-		"describsion":"Bearbeitungsmodus ist aktiv!"
+		"message":"Changemode is activated!"
 	},
 	"showbigdauerhaft":{
-		"message":"Pin Navigation",
-		"describsion":"Zeige das gro&szlig;e Men&uuml; dauerhaft!"
+		"message":"Pin Navigation"
 	},
 	"showlitedauerhaft":{
-		"message":"Unpin Navigation",
-		"describsion":"Zeige das kleine Men&uuml; dauerhaft!"
+		"message":"Unpin Navigation"
 	},
 	"lang_name":{
-		"message":"en",
-		"describsion":"de"
+		"message":"en"
 	},
 	"settings":{
-		"message":"Settings!",
-		"describsion":"Einstellungen!"
+		"message":"Settings!"
 	},
 	"no_new_cards":{
-		"message":"You've selected all recommended cards. You can find other great cards online.",
-		"describsion":"Alle empfohlenen Karten sind schon ausgew&auml;hlt. Online k&ouml;nnen Sie aber noch andere Karten entdecken."
+		"message":"You've selected all recommended cards. You can find other great cards online."
 	},
 	"noch_keine_cards_headline":{
-		"message":"No cards selected!",
-		"describsion":"Noch keine Karten!"
+		"message":"No cards selected!"
 	},
 	"noch_keine_cards":{
-		"message":"You have no selected cards! You can select cards in the changemode. Press \"STRG\" or the gear at the bottom left border to toggle the changemode. Now you can init the cards you want, for example the weather, news, or even more.",
-		"describsion":"Sie haben noch keine Karten ausgew&auml;hlt! Karten k&ouml;nnen im Bearbeitungsmodus ausgew&auml;hlt werden. Dr&uuml;cken Sie \"STRG\" oder das Zahnrad am oberen rechten Rand um in den Bearbeitungsmodus zu wechseln. Am rechten Rand k&ouml;nnen Sie nun eine Karte Ihrer Wahl ausw&auml;hlen, die dann in der Hauptansicht gezeigt wird (z.B. das Wetter, Nachrichten, Zuletzt besuchte Websiten, und vieles mehr)!"
+		"message":"You have no selected cards! You can select cards in the changemode. Press \"STRG\" or the gear at the bottom left border to toggle the changemode. Now you can init the cards you want, for example the weather, news, or even more."
 	},
 	"spenden_headline":{
-		"message":"Donate",
-		"describsion":"Spenden"
+		"message":"Donate"
 	},
 	"spenden":{
-		"message":"This extension was lot of work for the 16 year old developer. MyTab is free, so the developer earns no cent from it. You can donate if you like myTab!",
-		"describsion":"Diese Extension war sehr viel Arbeit, und der 16J&auml;hrige Entwickler verdient keinen Cent daran.  Spende doch etwas wenn dir myTab gef&auml;llt! :) "
+		"message":"This extension was lot of work for the 16 year old developer. MyTab is free, so the developer earns no cent from it. You can donate if you like myTab!"
 	},
 	"laden":{
-		"message":"Loading...",
-		"describsion":"Lade..."
+		"message":"Loading..."
 	},
 	"unread":{
-		"message":"Unread",
-		"describsion":"Ungelesen"
+		"message":"Unread"
 	},
 	"gmailerror":{
-		"message":"Sorry, you've to be logged into your gmail account.",
-		"describsion":"Entschuldigung, da ist was schief gelaufen! Sie m&uuml;ssen in ihren Gmail Account eingeloggt sein!"
+		"message":"Sorry, you've to be logged into your gmail account."
 	},
 	"karte_muss_eingestellt_werden":{
-		"message":"Press the settingsymbol on the card to make important settings for this card.",
-		"describsion":"Klicke auf das Einstellungsrad neben der &Uuml;berschrift, um die Karte einzustellen."
+		"message":"Press the settingsymbol on the card to make important settings for this card."
 	},
 	"falscher_link":{
-		"message":"Something went wrong! Maybe you've entered the wrong link.",
-		"describsion":"Scheinbar hast du einen falschen link eingegeben!"
+		"message":"Something went wrong! Maybe you've entered the wrong link."
 	},
 	"link_zu_benachrichtiung":{
-		"message":"Enter the link to your notifications",
-		"describsion":"Geben Sie hier den Link zu Ihren Benachrichtigungen an!"
+		"message":"Enter the link to your notifications"
 	},
 	"link_source":{
-		"message":"How to get this link",
-		"describsion":"Wo Sie den Link herbekommen."
+		"message":"How to get this link"
 	},
 	"page_to_launch":{
-		"message":"Page to launch",
-		"describsion":"Auszuf&uuml;hrende Seite"
+		"message":"Page to launch"
 	},
 	"wetter_warning":{
-		"message":"Pay attention! If you reload the page, your alarm clock will be removed!",
-		"describsion":"Achtung: beim Neuladen der Seite geht der Wecker verloren!!! "
+		"message":"Pay attention! If you reload the page, your alarm clock will be removed!"
 	},
 	"notes":{
-		"message":"Notes",
-		"describsion":"Notizen"
+		"message":"Notes"
 	},
 	"notes_content":{
-		"message":"You have no notes, click on the plus to add one!",
-		"describsion":"Noch keine Notiz angelegt! <br/> Klicke auf den + Button um das zu tun!"
+		"message":"You have no notes, click on the plus to add one!"
 	},
 	"new_note":{
-		"message":"New Note",
-		"describsion":"Neue Notiz"
+		"message":"New Note"
 	},
 	"new_note_explain":{
-		"message":"You can separate several notes with a comma!",
-		"describsion":" Mit einem Komma Zeichen k&ouml;nnen direkt mehrere Notizen erstellt werden!"
+		"message":"You can separate several notes with a comma!"
 	},
 	"bookmarks":{
-		"message":"Bookmarks",
-		"describsion":"Lesezeichen"
+		"message":"Bookmarks"
 	},
 	"no_bookmarks":{
-		"message":"There aren't any Bookmarks!",
-		"describsion":"Keine Bookmarks vorhanden!"
+		"message":"There aren't any Bookmarks!"
 	},
 	"recentlyclosed":{
-		"message":"Recently Closed",
-		"describsion":"Zuletzt aufgerufene Seiten"
+		"message":"Recently Closed"
 	},
 	"topnews":{
-		"message":"News",
-		"describsion":"Nachrichten"
+		"message":"News"
 	},
 	"news":{
-		"message":"News",
-		"describsion":"Nachrichten"
+		"message":"News"
 	},
 	"domain_for_news":{
 		"message":"com"
 	},
 	"wetter":{
-		"message":"weather",
-		"describsion":"Wettervorhersage"
+		"message":"weather"
 	},
 	"weather":{
-		"message":"weather",
-		"describsion":"Wettervorhersage"
+		"message":"weather"
 	},
 	"for":{
-		"message":"in",
-		"describsion":"f&uuml;r"
+		"message":"in"
 	},
 	"wettertyp":{
-		"message":"Weather",
-		"describsion":"Wettertyp"
+		"message":"Weather"
 	},
 	"luftfeuchtigkeit":{
-		"message":"Humidity",
-		"describsion":"Luftfeuchtigkeit"
+		"message":"Humidity"
 	},
 	"max_temp":{
-		"message":"Max. Temp.",
-		"describsion":"Max. Temperatur"
+		"message":"max. temp."
 	},
 	"min_temp":{
-		"message":"Max. Temp.",
-		"describsion":"Max. Temperatur"
+		"message":"min. temp."
 	},
 	"more_infos":{
-		"message":"More Info",
-		"describsion":"Mehr Infos"
+		"message":"More info"
 	},
 	"weather_error":{
-		"message":"Sorry, something went wrong!",
-		"describsion":"Da ist leider etwas schiefgelaufen!"
+		"message":"Sorry, something went wrong!"
 	},
 	"ort_eingeben":{
-		"message":"enter your location",
-		"describsion":"Ort/PLZ/ZIP-Code eingeben"
+		"message":"enter your location"
 	},
 	
 	"change_bg":{
-		"message":"Click to change background-image!",
-		"describsion":"Hier klicken um das Hintergrundbild zu &auml;ndern!"
+		"message":"Click to change background-image!"
 	},
 	"donate":{
-		"message":"Donate",
-		"describsion":"Spenden"
+		"message":"Donate"
 	},
 	"share":{
-		"message":"Share",
-		"describsion":"Teilen"
+		"message":"Share"
 	},
 	"settings":{
-		"message":"Settings",
-		"describsion":"Einstellungen"
+		"message":"Settings"
 	},
 	"most_visited":{
-		"message":"Most-visited",
-		"describsion":"Mei&szlig;t besucht"
+		"message":"Most-visited"
 	},
 	"suggest":{
-		"message":"Suggest a card",
-		"describsion":"Karte vorschlagen"
+		"message":"Suggest a card"
 	},
 	"add_card":{
-		"message":"Add new card",
-		"describsion":"Hinzuf&uuml;gen"
+		"message":"Add new card"
 	},
 	"save":{
-		"message":"Save",
-		"describsion":"Speichern"
+		"message":"Save"
 	},
 	"cancel":{
-		"message":"Cancel",
-		"describsion":"Abbrechen"
+		"message":"Cancel"
 	},
 	"about_me_headline":{
 		"message":"About Me"

@@ -39,3 +39,8 @@ A new Card Object need these attributes:
 <li> optional if the card has settings or plus: you need the both functions settings (this will happen if the user click on the gear or plus, and the function apply will run if the user apply.</li>
 </ul>
 Watch out the the cards file! There are examples for everything you will need.
+
+###How to add your language! 
+<p> 
+	create a new directory in _locales with the language shortcut from the language you're going to add. Copy the file "messages.json" from the english directory, and translate all the strings into your language. And now: enjoy myTab in your own language! :)
+</p>
