@@ -1,0 +1,204 @@
+{
+	"next":{
+		"message":"Следующий"
+	},
+	"prev":{
+		"message":"Предыдущий"
+	},
+	"ready":{
+		"message":"Конец!"
+	},
+	"clicktoleavechangemode":{
+		"message":"Нажмите, чтобы покинуть режим редактирования"
+	},
+	"changemodeisactive":{
+		"message":"Режим редактирования включён"
+	},
+	"showbigdauerhaft":{
+		"message":"Закрепить навигацию"
+	},
+	"showlitedauerhaft":{
+		"message":"Открепить навигацию"
+	},
+	"lang_name":{
+		"message":"ru"
+	},
+	"settings":{
+		"message":"Настройки"
+	},
+	"no_new_cards":{
+		"message":"Вы выбрали все рекомендуемые карточки. Найти больше вы сможете в интернете."
+	},
+	"noch_keine_cards_headline":{
+		"message":"Карточки не выбраны."
+	},
+	"noch_keine_cards":{
+		"message":"Вы не выбрали карточки! Вы можете выбрать их в режиме редактирования. Нажмите \"STRG\" или проведите курсором от нижнего левого края чтобы включить режим редактирования. Теперь вы можете добавить любые карточки, например погоду, новости или что-то ещё."
+	},
+	"spenden_headline":{
+		"message":"Пожертвовать"
+	},
+	"spenden":{
+		"message":"Это расширение является работой 16-летнего разработчика. MyTab бесплатен, так что разработчик не получает с него ни цента. Вы можете пожертвовать на разработку, если вам нравится myTab!"
+	},
+	"laden":{
+		"message":"Загрузка..."
+	},
+	"unread":{
+		"message":"Непрочитанное"
+	},
+	"gmailerror":{
+		"message":"Простите, но вы должны войти в свой Gmail-аккаунт."
+	},
+	"karte_muss_eingestellt_werden":{
+		"message":"Нажмите на значок шестерёнки на карточке, чтобы перейти к её настройкам."
+	},
+	"falscher_link":{
+		"message":"Что-то пошло не так! Возможно, вы ввели неправильную ссылку."
+	},
+	"link_zu_benachrichtiung":{
+		"message":"Введите ссылку на RSS-поток уведомлений"
+	},
+	"link_source":{
+		"message":"Как получить?"
+	},
+	"page_to_launch":{
+		"message":"Страница для загрузки"
+	},
+	"wetter_warning":{
+		"message":"Обратите внимание! Если вы перезагрузите страницу, будильник будет удалён!"
+	},
+	"notes":{
+		"message":"Заметки"
+	},
+	"notes_content":{
+		"message":"У вас нет заметок. Нажите на плюс, чтобы добавить!"
+	},
+	"new_note":{
+		"message":"Новая заметка"
+	},
+	"new_note_explain":{
+		"message":"Вы можете разделять заметки запятой!"
+	},
+	"bookmarks":{
+		"message":"Закладки"
+	},
+	"no_bookmarks":{
+		"message":"Закладок нет"
+	},
+	"recentlyclosed":{
+		"message":"Недавние вкладки"
+	},
+	"topnews":{
+		"message":"Новости"
+	},
+	"news":{
+		"message":"Новости"
+	},
+	"domain_for_news":{
+		"message":"ru"
+	},
+	"wetter":{
+		"message":"Погода"
+	},
+	"weather":{
+		"message":"Погода"
+	},
+	"for":{
+		"message":"в"
+	},
+	"wettertyp":{
+		"message":"Погода"
+	},
+	"luftfeuchtigkeit":{
+		"message":"Влажность"
+	},
+	"max_temp":{
+		"message":"Макс. темп."
+	},
+	"min_temp":{
+		"message":"Мин. темп."
+	},
+	"more_infos":{
+		"message":"Открыть сводку"
+	},
+	"weather_error":{
+		"message":"Что-то пошло не так!"
+	},
+	"ort_eingeben":{
+		"message":"Введите ваш город"
+	},
+
+	"change_bg":{
+		"message":"Нажмите, чтобы изменить фоновое изображение!"
+	},
+	"donate":{
+		"message":"Пожертвовать"
+	},
+	"share":{
+		"message":"Поделиться"
+	},
+	"settings":{
+		"message":"Настройки"
+	},
+	"most_visited":{
+		"message":"Посещаемые"
+	},
+	"suggest":{
+		"message":"Предложить карточку"
+	},
+	"add_card":{
+		"message":"Добавить карточку"
+	},
+	"save":{
+		"message":"Сохранить"
+	},
+	"cancel":{
+		"message":"Отмена"
+	},
+	"about_me_headline":{
+		"message":"Обо мне"
+	},
+	"about_me":{
+		"message":"Немного обо мне"
+	},
+	"legals_licences":{
+		"message":"Условия и правила использования"
+	},
+	"copyright":{
+		"message":"&copy; 2014 by NickW.de - Все права защищены."
+	},
+	"licences":{
+		"message":"Лицензии"
+	},
+	"remove_card":{
+		"message":"Удалить карточку"
+	},
+	"add_card_from_nickw":{
+		"message":"Другие карточки"
+	},
+	"dont_show_hinweis":{
+		"message":"Не показывать этот совет"
+	},
+	"support":{
+		"message":"Поддержка"
+	},
+	"joke_headline":{
+		"message":"Шутка"
+	},
+	"joke":{
+		"message":"Шутка"
+	},
+	"wecker":{
+		"message":"Будильник"
+	},
+	"set_alarm":{
+		"message":"Установить время"
+	},
+	"bewerten":{
+		"message":"Оценить myTab"
+	},
+	"font_size":{
+		"message":"Размер шрифта"
+	}
+}
