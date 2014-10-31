@@ -24,6 +24,8 @@
 	<li>Custom RSS Feed -> where does myTab get the permission to access all sites?</li>
 	<li>Google Keep Notes</li>
 	<li>Spotify Card</li>
+	<li>Today on TV</li>
+	<li>Stocks</li>
 </ul>
 
 ###How to Create a new Card: (You don't need to be a pro)
