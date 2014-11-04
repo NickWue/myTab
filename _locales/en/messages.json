@@ -33,7 +33,7 @@
 		"message":"No cards selected!"
 	},
 	"noch_keine_cards":{
-		"message":"You have no selected cards! You can select cards in the changemode. Press \"STRG\" or the gear at the bottom left border to toggle the changemode. Now you can init the cards you want, for example the weather, news, or even more."
+		"message":"You have no selected cards! You can select cards in the changemode. Press \"Ctrl\" or the gear at the bottom left border to toggle the changemode. Now you can init the cards you want, for example the weather, news, or even more."
 	},
 	"spenden_headline":{
 		"message":"Donate"
