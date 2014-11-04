@@ -14,9 +14,9 @@
 ####What you are allowed to do, and what not: 
 <p> You can download myTab and make it better. Please load it up in this repository again, because your update should help every user. Thank you very much. </p>
 
-###Comming Cards:
+###Coming Cards:
 <ul>
-	<li>Google Search Box with Mic -> maby voice assistant api?</li>
+	<li>Google Search Box with Mic -> maybe voice assistant api?</li>
 	<li>Google+ Feed</li>
 	<li>Google Calendar </li>
 	<li>YouTube</li>
@@ -44,5 +44,5 @@ Watch out the the cards file! There are examples for everything you will need.
 
 ###How to add your language! 
 <p> 
-	create a new directory in _locales with the language shortcut from the language you're going to add. Copy the file "messages.json" from the english directory, and translate all the strings into your language. And now: enjoy myTab in your own language! :)
+	Create a new directory in _locales with the language shortcut from the language you're going to add. Copy the file "messages.json" from the english directory, and translate all the strings into your language. And now: enjoy myTab in your own language! :)
 </p>
