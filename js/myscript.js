@@ -275,6 +275,7 @@ function firststart(){
 	if (typeof(localStorage['fontsize']) == 'undefined') localStorage['fontsize'] = '18';
 }
 function jscss(){
+	$('#body').css('top',localStorage['body-padding-top'])
 	var date = new Date();
 	day = date.getDate();
 	if (day > 20) day = day -11;
