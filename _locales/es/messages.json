@@ -1,0 +1,204 @@
+{
+	"next":{
+		"message":"Siguiente"
+	},
+	"prev":{
+		"message":"Anterior"
+	},
+	"ready":{
+		"message":"Fin!"
+	},
+	"clicktoleavechangemode":{
+		"message":"Salir de Modo Cambios!"
+	},
+	"changemodeisactive":{
+		"message":"Modo Cambios activada!"
+	},
+	"showbigdauerhaft":{
+		"message":"Fijar Navegación"
+	},
+	"showlitedauerhaft":{
+		"message":"Soltar Navegación"
+	},
+	"lang_name":{
+		"message":"es"
+	},
+	"settings":{
+		"message":"Configuración!"
+	},
+	"no_new_cards":{
+		"message":"Has seleccionado todos los paneles recomendados. Puedes encontrar más paneles online."
+	},
+	"noch_keine_cards_headline":{
+		"message":"No has seleccionado ningún panel!"
+	},
+	"noch_keine_cards":{
+		"message":"No has seleccionado ningún panel! Puedes seleccionar paneles en el Modo de Cambios. Pulsa \"Ctrl\" o accede al menú en el lateral izquierdo para entrar en modo de cambios. Ahí puedes configurar los paneles que quieres, por ejemplo el tiempo, noticias y más."
+	},
+	"spenden_headline":{
+		"message":"Donar"
+	},
+	"spenden":{
+		"message":"Esta extensión ha sido mucho trabajo para un desarrollador de 16 años. MyTab es gratis, así que el desarrollador no gana nada del programa. Puedes realizar una donación si encuentras útil myTab!"
+	},
+	"laden":{
+		"message":"Cargando..."
+	},
+	"unread":{
+		"message":"No leído"
+	},
+	"gmailerror":{
+		"message":"Has de estar conectado a tu cuenta gmail."
+	},
+	"karte_muss_eingestellt_werden":{
+		"message":"Pulsa en el símbolo de engranaje para acceder a la configuración del panel."
+	},
+	"falscher_link":{
+		"message":"Ha habido algún error! ¿Quizás has introducido el enlace erróneamente?"
+	},
+	"link_zu_benachrichtiung":{
+		"message":"Introducir el enlace a tus notificaciones"
+	},
+	"link_source":{
+		"message":"Cómo obtener este enlace"
+	},
+	"page_to_launch":{
+		"message":"Página a cargar"
+	},
+	"wetter_warning":{
+		"message":"Cuidado! Si cargas de nuevo la página, la alarma será eliminada!"
+	},
+	"notes":{
+		"message":"Notas"
+	},
+	"notes_content":{
+		"message":"No hay notas, pulsa en el símbolo de más para añadir una!"
+	},
+	"new_note":{
+		"message":"Nueva Nota"
+	},
+	"new_note_explain":{
+		"message":"Puedes separar varias notas con una coma!"
+	},
+	"bookmarks":{
+		"message":"Marcadores"
+	},
+	"no_bookmarks":{
+		"message":"No hay marcadores!"
+	},
+	"recentlyclosed":{
+		"message":"Cerradas Recientemente"
+	},
+	"topnews":{
+		"message":"Noticias"
+	},
+	"news":{
+		"message":"Noticias"
+	},
+	"domain_for_news":{
+		"message":"com"
+	},
+	"wetter":{
+		"message":"El Tiempo"
+	},
+	"weather":{
+		"message":"El Tiempo"
+	},
+	"for":{
+		"message":"en"
+	},
+	"wettertyp":{
+		"message":"El Tiempo"
+	},
+	"luftfeuchtigkeit":{
+		"message":"Humedad"
+	},
+	"max_temp":{
+		"message":"temp. max."
+	},
+	"min_temp":{
+		"message":"temp. min."
+	},
+	"more_infos":{
+		"message":"Más info"
+	},
+	"weather_error":{
+		"message":"Ha habido un error!"
+	},
+	"ort_eingeben":{
+		"message":"introduce tu ubicación"
+	},
+	
+	"change_bg":{
+		"message":"Pulsa para cambiar la imagen de fondo!"
+	},
+	"donate":{
+		"message":"Donar"
+	},
+	"share":{
+		"message":"Compartir"
+	},
+	"settings":{
+		"message":"Configuración"
+	},
+	"most_visited":{
+		"message":"Más-visitado"
+	},
+	"suggest":{
+		"message":"Sugiere un panel"
+	},
+	"add_card":{
+		"message":"Añadir panel"
+	},
+	"save":{
+		"message":"Guardar"
+	},
+	"cancel":{
+		"message":"Cancelar"
+	},
+	"about_me_headline":{
+		"message":"Acerca de"
+	},
+	"about_me":{
+		"message":"Quien soy"
+	},
+	"legals_licences":{
+		"message":"Legales &amp; licencias"
+	},
+	"copyright":{
+		"message":"&copy; 2014 por NickW.de - Derechos reservados."
+	},
+	"licences":{
+		"message":"licencias"
+	},
+	"remove_card":{
+		"message":"eliminar panel"
+	},
+	"add_card_from_nickw":{
+		"message":"Otros Paneles"
+	},
+	"dont_show_hinweis":{
+		"message":"No mostrar esta ayuda."
+	},
+	"support":{
+		"message":"Soporte"
+	},
+	"joke_headline":{
+		"message":"Chiste"
+	},
+	"joke":{
+		"message":"Chiste"
+	},
+	"wecker":{
+		"message":"despertador"
+	},
+	"set_alarm":{
+		"message":"definir alarma"
+	},
+	"bewerten":{
+		"message":"Evaluar myTab"
+	},
+	"font_size":{
+		"message":"tamaño fuente"
+	}
+}
