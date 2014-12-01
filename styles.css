@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 body{
 	padding:0;
@@ -6,7 +6,7 @@ body{
 	overflow:auto;
 	overflow-x:hidden;
 	background: #e5e5e5;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight:200;
 	color:#5f6f81;
 	-webkit-background-size: cover;
@@ -265,7 +265,7 @@ color: #333;
 text-decoration: none;
 cursor: pointer;
 font-weight: 300;
-font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 
 .no-touch .gn-menu-main a:hover,
