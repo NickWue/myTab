@@ -51,7 +51,7 @@
 		"message":"Sorry, you've to be logged into your gmail account."
 	},
 	"karte_muss_eingestellt_werden":{
-		"message":"Press the settingsymbol on the card to make important settings for this card."
+		"message":"Press the setting symbol (cog) on the card to make important settings for this card."
 	},
 	"falscher_link":{
 		"message":"Something went wrong! Maybe you've entered the wrong link."
