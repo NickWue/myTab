@@ -1,0 +1,204 @@
+{
+	"next":{
+		"message":"Next"
+	},
+	"prev":{
+		"message":"Prev"
+	},
+	"ready":{
+		"message":"Finish!"
+	},
+	"clicktoleavechangemode":{
+		"message":"Click to leave changemode!"
+	},
+	"changemodeisactive":{
+		"message":"Changemode is activated!"
+	},
+	"showbigdauerhaft":{
+		"message":"Pin Navigation"
+	},
+	"showlitedauerhaft":{
+		"message":"Unpin Navigation"
+	},
+	"lang_name":{
+		"message":"nl"
+	},
+	"settings":{
+		"message":" Instellingen!"
+	},
+	"no_new_cards":{
+		"message":"You've selected all recommended cards. You can find other great cards online."
+	},
+	"noch_keine_cards_headline":{
+		"message":"No cards selected!"
+	},
+	"noch_keine_cards":{
+		"message":"Nog geen kaarten geselecteerd!Je hebt nog geen geselecteerde kaarten. Je kunt kaarten selecteren in de wijzigingstand. Toets ‘Ctrl’ of het tandwieltje linksonder om naar de wijzigingstand te schakelen. Nu kun je de gewenste kaarten initiëren, bijvoorbeeld het weer, het nieuws, of andere kaarten.Laat deze tip niet meer zien"
+	},
+	"spenden_headline":{
+		"message":"Donate"
+	},
+	"spenden":{
+		"message":"Steun MyTab Het bouwen van deze extensie was een heleboel werk voor de 16 jarige ontwikkelaar. MyTab is gratis, dus het levert niks op. Als je MyTab wilt steunen kun je een donatie doen.!"
+	},
+	"laden":{
+		"message":"Loading..."
+	},
+	"unread":{
+		"message":"Unread"
+	},
+	"gmailerror":{
+		"message":"Sorry, you've to be logged into your gmail account."
+	},
+	"karte_muss_eingestellt_werden":{
+		"message":"Press the setting symbol (cog) on the card to make important settings for this card."
+	},
+	"falscher_link":{
+		"message":"Something went wrong! Maybe you've entered the wrong link."
+	},
+	"link_zu_benachrichtiung":{
+		"message":"Enter the link to your notifications"
+	},
+	"link_source":{
+		"message":"How to get this link"
+	},
+	"page_to_launch":{
+		"message":"Page to launch"
+	},
+	"wetter_warning":{
+		"message":"Pay attention! If you reload the page, your alarm clock will be removed!"
+	},
+	"notes":{
+		"message":"Notities"
+	},
+	"notes_content":{
+		"message":"You have no notes, click on the plus to add one!"
+	},
+	"new_note":{
+		"message":"New Note"
+	},
+	"new_note_explain":{
+		"message":"You can separate several notes with a comma!"
+	},
+	"bookmarks":{
+		"message":"Bladwijzers"
+	},
+	"no_bookmarks":{
+		"message":"There aren't any Bookmarks!"
+	},
+	"recentlyclosed":{
+		"message":"Onlangs gesloten"
+	},
+	"topnews":{
+		"message":"Nieuws"
+	},
+	"news":{
+		"message":"Nieuws"
+	},
+	"domain_for_news":{
+		"message":"nl"
+	},
+	"wetter":{
+		"message":"het weer"
+	},
+	"weather":{
+		"message":"het weer"
+	},
+	"for":{
+		"message":"in"
+	},
+	"wettertyp":{
+		"message":"het weer"
+	},
+	"luftfeuchtigkeit":{
+		"message":"Humidity"
+	},
+	"max_temp":{
+		"message":"max. temp."
+	},
+	"min_temp":{
+		"message":"min. temp."
+	},
+	"more_infos":{
+		"message":"More info"
+	},
+	"weather_error":{
+		"message":"Sorry, something went wrong!"
+	},
+	"ort_eingeben":{
+		"message":"enter your location"
+	},
+	
+	"change_bg":{
+		"message":"Click to change background-image!"
+	},
+	"donate":{
+		"message":"Donate"
+	},
+	"share":{
+		"message":"Share"
+	},
+	"settings":{
+		"message":"Settings"
+	},
+	"most_visited":{
+		"message":"Most-visited"
+	},
+	"suggest":{
+		"message":"Voorgestelde kaart "
+	},
+	"add_card":{
+		"message":"Voeg nieuwe kaart toe"
+	},
+	"save":{
+		"message":"Save"
+	},
+	"cancel":{
+		"message":"Cancel"
+	},
+	"about_me_headline":{
+		"message":"About Me"
+	},
+	"about_me":{
+		"message":"A short text about me"
+	},
+	"legals_licences":{
+		"message":"Legals &amp; licences"
+	},
+	"copyright":{
+		"message":"&copy; 2014 by NickW.de - All rights reservered."
+	},
+	"licences":{
+		"message":"licences"
+	},
+	"remove_card":{
+		"message":" verwijder kaart"
+	},
+	"add_card_from_nickw":{
+		"message":"Other cards"
+	},
+	"dont_show_hinweis":{
+		"message":"Don't show this hint"
+	},
+	"support":{
+		"message":"Ondersteuning"
+	},
+	"joke_headline":{
+		"message":"Mop (Engels)"
+	},
+	"joke":{
+		"message":"Mop (Engels)"
+	},
+	"wecker":{
+		"message":"wekker"
+	},
+	"set_alarm":{
+		"message":"set alarm"
+	},
+	"bewerten":{
+		"message":"Rate myTab"
+	},
+	"font_size":{
+		"message":"lettergrootte"
+	}
+}
