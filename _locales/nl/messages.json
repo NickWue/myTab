@@ -6,7 +6,7 @@
 		"message":"Prev"
 	},
 	"ready":{
-		"message":"Finish!"
+		"message":"Afmaken!"
 	},
 	"clicktoleavechangemode":{
 		"message":"Click to leave changemode!"
@@ -30,7 +30,7 @@
 		"message":"You've selected all recommended cards. You can find other great cards online."
 	},
 	"noch_keine_cards_headline":{
-		"message":"No cards selected!"
+		"message":"Er zijn geen kaarten geselecteerd!"
 	},
 	"noch_keine_cards":{
 		"message":"Nog geen kaarten geselecteerd!Je hebt nog geen geselecteerde kaarten. Je kunt kaarten selecteren in de wijzigingstand. Toets ‘Ctrl’ of het tandwieltje linksonder om naar de wijzigingstand te schakelen. Nu kun je de gewenste kaarten initiëren, bijvoorbeeld het weer, het nieuws, of andere kaarten.Laat deze tip niet meer zien"
@@ -42,49 +42,49 @@
 		"message":"Steun MyTab Het bouwen van deze extensie was een heleboel werk voor de 16 jarige ontwikkelaar. MyTab is gratis, dus het levert niks op. Als je MyTab wilt steunen kun je een donatie doen.!"
 	},
 	"laden":{
-		"message":"Loading..."
+		"message":"Aan het laden..."
 	},
 	"unread":{
-		"message":"Unread"
+		"message":"Ongelezen"
 	},
 	"gmailerror":{
-		"message":"Sorry, you've to be logged into your gmail account."
+		"message":"Sorry, je moet zijn ingelogd in Gmail."
 	},
 	"karte_muss_eingestellt_werden":{
-		"message":"Press the setting symbol (cog) on the card to make important settings for this card."
+		"message":"Klik op Instellingen (het wieltje) in de kaart om deze in te stellen."
 	},
 	"falscher_link":{
 		"message":"Something went wrong! Maybe you've entered the wrong link."
 	},
 	"link_zu_benachrichtiung":{
-		"message":"Enter the link to your notifications"
+		"message":"Voer de link in naar je meldingen"
 	},
 	"link_source":{
-		"message":"How to get this link"
+		"message":"Hoe je deze link krijgt"
 	},
 	"page_to_launch":{
-		"message":"Page to launch"
+		"message":"Startpagina"
 	},
 	"wetter_warning":{
-		"message":"Pay attention! If you reload the page, your alarm clock will be removed!"
+		"message":"Pay attention! If you reload the page, your alarm clock will be removed!" = Pas op! Als je deze pagina ververst wordt je wekker verwijderd!"
 	},
 	"notes":{
 		"message":"Notities"
 	},
 	"notes_content":{
-		"message":"You have no notes, click on the plus to add one!"
+		"message":" Je hebt geen notities, klik op de ‘+’ om er een te maken!"
 	},
 	"new_note":{
-		"message":"New Note"
+		"message":"Nieuwe Notitie"
 	},
 	"new_note_explain":{
-		"message":"You can separate several notes with a comma!"
+		"message":"Je kunt notities van elkaar scheiden door middel van een komma!"
 	},
 	"bookmarks":{
 		"message":"Bladwijzers"
 	},
 	"no_bookmarks":{
-		"message":"There aren't any Bookmarks!"
+		"message":"Er zijn geen Bladwijzers!"
 	},
 	"recentlyclosed":{
 		"message":"Onlangs gesloten"
@@ -111,7 +111,7 @@
 		"message":"het weer"
 	},
 	"luftfeuchtigkeit":{
-		"message":"Humidity"
+		"message":"Luchtvochtigheid"
 	},
 	"max_temp":{
 		"message":"max. temp."
@@ -120,13 +120,13 @@
 		"message":"min. temp."
 	},
 	"more_infos":{
-		"message":"More info"
+		"message":"Meer informative "
 	},
 	"weather_error":{
-		"message":"Sorry, something went wrong!"
+		"message":" Sorry, er ging iets verkeerd!"
 	},
 	"ort_eingeben":{
-		"message":"enter your location"
+		"message":"voer je locatie in"
 	},
 	
 	"change_bg":{
@@ -142,7 +142,7 @@
 		"message":"Settings"
 	},
 	"most_visited":{
-		"message":"Most-visited"
+		"message":"Meest bezocht"
 	},
 	"suggest":{
 		"message":"Voorgestelde kaart "
@@ -151,10 +151,10 @@
 		"message":"Voeg nieuwe kaart toe"
 	},
 	"save":{
-		"message":"Save"
+		"message":"Opslaan"
 	},
 	"cancel":{
-		"message":"Cancel"
+		"message":"Annuleren"
 	},
 	"about_me_headline":{
 		"message":"About Me"
@@ -178,7 +178,7 @@
 		"message":"Other cards"
 	},
 	"dont_show_hinweis":{
-		"message":"Don't show this hint"
+		"message":"Verberg deze hint (of) Verberg deze tip"
 	},
 	"support":{
 		"message":"Ondersteuning"
@@ -193,7 +193,7 @@
 		"message":"wekker"
 	},
 	"set_alarm":{
-		"message":"set alarm"
+		"message":"stel de wekker in"
 	},
 	"bewerten":{
 		"message":"Rate myTab"
