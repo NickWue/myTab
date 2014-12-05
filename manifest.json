@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "myTab Open Source New Tab Page",
 	"short_name": "myTab",
-	"version": "1.5",
+	"version": "1.51",
 	
 	"default_locale": "en",
 	"description": "Change your new tab page, to an informal and great looking page.",
