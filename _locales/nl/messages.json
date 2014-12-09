@@ -66,7 +66,7 @@
 		"message":"Startpagina"
 	},
 	"wetter_warning":{
-		"message":"Pay attention! If you reload the page, your alarm clock will be removed!" = Pas op! Als je deze pagina ververst wordt je wekker verwijderd!"
+		"message":"Pas op! Als je deze pagina ververst wordt je wekker verwijderd!"
 	},
 	"notes":{
 		"message":"Notities"
