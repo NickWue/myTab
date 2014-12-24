@@ -93,7 +93,7 @@ function facebook(){
 //GMail
 function gmail(){
 	this.headline = 'GMail '+getmsg("unread");
-	this.content = '<a href="https://mail.google.com" class="unread_gmail">'+getmsg("laden")+'</a>';
+	this.content = '<a href="https://mail.google.com" class="unread_gmail">'+getmsg("load")+'</a>';
 	this.showsettings = false;
 	this.permission = '';
 	this.origin = 'https://mail.google.com/mail';
@@ -266,7 +266,7 @@ function support(){
 //Weather
 function weather(){
 	this.headline = getmsg("wetter");
-	this.content = getmsg("laden");
+	this.content = getmsg("load");
 	this.showsettings = true;
 	this.permission = '';
 	this.origin = 'http://api.openweathermap.org/*';

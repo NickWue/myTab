@@ -8,12 +8,6 @@
 	"ready":{
 		"message":"Finish!"
 	},
-	"clicktoleavechangemode":{
-		"message":"Click to leave changemode!"
-	},
-	"changemodeisactive":{
-		"message":"Changemode is activated!"
-	},
 	"showbigdauerhaft":{
 		"message":"Pin Navigation"
 	},
@@ -24,7 +18,7 @@
 		"message":"en"
 	},
 	"settings":{
-		"message":"Settings!"
+		"message":"Settings"
 	},
 	"no_new_cards":{
 		"message":"You've selected all recommended cards. You can find other great cards online."
@@ -39,16 +33,16 @@
 		"message":"Donate"
 	},
 	"spenden":{
-		"message":"This extension was lot of work for the 16 year old developer. MyTab is free, so the developer earns no cent from it. You can donate if you like myTab!"
+		"message":"This extension was lot of work for the 17 year old developer. MyTab is free, so the developer earns no money with it. Please donate, when you like myTab!"
 	},
-	"laden":{
+	"load":{
 		"message":"Loading..."
 	},
 	"unread":{
 		"message":"Unread"
 	},
 	"gmailerror":{
-		"message":"Sorry, you've to be logged into your gmail account."
+		"message":"Sorry, you have to be sign into your gmail account to read your emails!"
 	},
 	"karte_muss_eingestellt_werden":{
 		"message":"Press the setting symbol (cog) on the card to make important settings for this card."

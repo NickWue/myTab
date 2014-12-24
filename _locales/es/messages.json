@@ -41,7 +41,7 @@
 	"spenden":{
 		"message":"Esta extensión ha sido mucho trabajo para un desarrollador de 16 años. MyTab es gratis, así que el desarrollador no gana nada del programa. Puedes realizar una donación si encuentras útil myTab!"
 	},
-	"laden":{
+	"load":{
 		"message":"Cargando..."
 	},
 	"unread":{

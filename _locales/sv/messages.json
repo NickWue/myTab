@@ -1,227 +1,172 @@
 {
     "ersteschritte_layouttext":{
-		"message":"Das Layout: Links finden Sie ihre wichtigsten Websiten. In der Mitte der Seite finden Sie ihre ausgew&auml;hlten Karten, z.B. das Wetter, Notizen, oder anderes.",
-		"describsion":"Das Layout: Links finden Sie ihre wichtigsten Websiten. In der Mitte der Seite finden Sie ihre ausgew&auml;hlten Karten, z.B. das Wetter, Notizen, oder anderes."
+		"message":"Das Layout: Links finden Sie ihre wichtigsten Websiten. In der Mitte der Seite finden Sie ihre ausgew&auml;hlten Karten, z.B. das Wetter, Notizen, oder anderes."
 	},
 	"ersteschritte_settingstext":{
-		"message":"Dr&uuml;cken Sie die STRG Taste, oder auf den Einstellungsbutton (Rechts oben), um in den Einstellungsmodus zu wechseln. Hier k&ouml;nnen Sie neue Karten ausw&auml;hlen, Karten per Drag'n'Drop l&ouml;schen, sowie z.B. das Hintergrundbild wechseln.",
-		"describsion":"Dr&uuml;cken Sie die STRG Taste, oder auf den Einstellungsbutton (Rechts oben), um in den Einstellungsmodus zu wechseln. Hier k&ouml;nnen Sie neue Karten ausw&auml;hlen, Karten per Drag'n'Drop l&ouml;schen, sowie z.B. das Hintergrundbild wechseln."
+		"message":"Dr&uuml;cken Sie die STRG Taste, oder auf den Einstellungsbutton (Rechts oben), um in den Einstellungsmodus zu wechseln. Hier k&ouml;nnen Sie neue Karten ausw&auml;hlen, Karten per Drag'n'Drop l&ouml;schen, sowie z.B. das Hintergrundbild wechseln."
 	},
 	"ersteschritte_welcometext":{
-		"message":"Herzlich Willkommen bei MyTab, der neuen tollen frei anpassbaren New Tab Page f&uuml;r Chrome! Damit der Einstieg nicht so schwer f&auml;llt, wird dieser Guide Ihnen die Grundlegenden Funktionen des Programms erkl&auml;ren!<br/>",
-		"describsion":"Herzlich Willkommen bei MyTab, der neuen tollen frei anpassbaren New Tab Page f&uuml;r Chrome! Damit der Einstieg nicht so schwer f&auml;llt, wird dieser Guide Ihnen die Grundlegenden Funktionen des Programms erkl&auml;ren!<br/>"
+		"message":"Herzlich Willkommen bei MyTab, der neuen tollen frei anpassbaren New Tab Page f&uuml;r Chrome! Damit der Einstieg nicht so schwer f&auml;llt, wird dieser Guide Ihnen die Grundlegenden Funktionen des Programms erkl&auml;ren!<br/>"
 	},
 	"ersteschritte_ready":{
-		"message":"Herzlichen Gl&uuml;ckwunsch, das Tutorial ist nun abgeschlossen! Probieren Sie es doch gleich aus!",
-		"describsion":"Herzlichen Gl&uuml;ckwunsch, das Tutorial ist nun abgeschlossen! Probieren Sie es doch gleich aus!"
+		"message":"Herzlichen Gl&uuml;ckwunsch, das Tutorial ist nun abgeschlossen! Probieren Sie es doch gleich aus!"
 	},
 	"next":{
-		"message":"Nästa",
-		"describsion":"N&auml;chster Schritt"
+		"message":"Nästa"
 	},
 	"prev":{
-		"message":"Tidigare",
-		"describsion":"Vorheriger Schritt"
+		"message":"Tidigare"
 	},
 	"ready":{
-		"message":"Klart!",
-		"describsion":"Abschlie&szlig;en!"
+		"message":"Klart!"
 	},
 	"clicktoleavechangemode":{
-		"message":"Klicka för att lämna ändringsläget!",
-		"describsion":"Klicke um den Modus zu verlassen!"
+		"message":"Klicka för att lämna ändringsläget!"
 	},
 	"changemodeisactive":{
-		"message":"Ändringsläget är aktiverat!",
-		"describsion":"Bearbeitungsmodus ist aktiv!"
+		"message":"Ändringsläget är aktiverat!"
 	},
 	"showbigdauerhaft":{
-		"message":"Fäst navigering",
-		"describsion":"Zeige das gro&szlig;e Men&uuml; dauerhaft!"
+		"message":"Fäst navigering"
 	},
 	"showlitedauerhaft":{
-		"message":"Släpp navigering",
-		"describsion":"Zeige das kleine Men&uuml; dauerhaft!"
+		"message":"Släpp navigering"
 	},
 	"lang_name":{
-		"message":"sv",
-		"describsion":"de"
+		"message":"sv"
 	},
 	"settings":{
-		"message":"Inställningar!",
-		"describsion":"Einstellungen!"
+		"message":"Inställningar!"
 	},
 	"no_new_cards":{
-		"message":"Du har valt alla rekommenderade kort. Du kan hitta andra bra kort online.",
-		"describsion":"Alle empfohlenen Karten sind schon ausgew&auml;hlt. Online k&ouml;nnen Sie aber noch andere Karten entdecken."
+		"message":"Du har valt alla rekommenderade kort. Du kan hitta andra bra kort online."
 	},
 	"noch_keine_cards_headline":{
-		"message":"Inga kort är valda!",
-		"describsion":"Noch keine Karten!"
+		"message":"Inga kort är valda!"
 	},
 	"noch_keine_cards":{
-		"message":"Du har inga valda kort! Du kan välja kort i ändringsläget. Tryck \"CTRL\" eller drevet i det undre vänstra kanthörnet för att växla ändringsläget. Där kan du initiera dom kort som du vill ha, exempelvis för vädret, nyheter eller ännu mer",
-		"describsion":"Sie haben noch keine Karten ausgew&auml;hlt! Karten k&ouml;nnen im Bearbeitungsmodus ausgew&auml;hlt werden. Dr&uuml;cken Sie \"STRG\" oder das Zahnrad am oberen rechten Rand um in den Bearbeitungsmodus zu wechseln. Am rechten Rand k&ouml;nnen Sie nun eine Karte Ihrer Wahl ausw&auml;hlen, die dann in der Hauptansicht gezeigt wird (z.B. das Wetter, Nachrichten, Zuletzt besuchte Websiten, und vieles mehr)!"
+		"message":"Du har inga valda kort! Du kan välja kort i ändringsläget. Tryck \"CTRL\" eller drevet i det undre vänstra kanthörnet för att växla ändringsläget. Där kan du initiera dom kort som du vill ha, exempelvis för vädret, nyheter eller ännu mer"
 	},
 	"spenden_headline":{
-		"message":"Donera",
-		"describsion":"Spenden"
+		"message":"Donera"
 	},
 	"spenden":{
-		"message":"Denna extension var mycket arbete för den sextonåriga utvecklaren. Eftersom MyTab är gratis så tjänar utvecklaren inte ett öre från detta. Du kan donera om du gillar myTab!",
-		"describsion":"Diese Extension war sehr viel Arbeit, und der 16J&auml;hrige Entwickler verdient keinen Cent daran.  Spende doch etwas wenn dir myTab gef&auml;llt! :) "
+		"message":"Denna extension var mycket arbete för den sextonåriga utvecklaren. Eftersom MyTab är gratis så tjänar utvecklaren inte ett öre från detta. Du kan donera om du gillar myTab!"
 	},
-	"laden":{
-		"message":"Laddar...",
-		"describsion":"Lade..."
+	"load":{
+		"message":"Laddar..."
 	},
 	"unread":{
-		"message":"Olästa",
-		"describsion":"Ungelesen"
+		"message":"Olästa"
 	},
 	"gmailerror":{
-		"message":"Du måste tyvärr vara inloggad på ditt Gmail-konto.",
-		"describsion":"Entschuldigung, da ist was schief gelaufen! Sie m&uuml;ssen in ihren Gmail Account eingeloggt sein!"
+		"message":"Du måste tyvärr vara inloggad på ditt Gmail-konto."
 	},
 	"karte_muss_eingestellt_werden":{
-		"message":"Klicka på inställningsdrevet på kortet för att göra viktiga ändringar för detta kort.",
-		"describsion":"Klicke auf das Einstellungsrad neben der &Uuml;berschrift, um die Karte einzustellen."
+		"message":"Klicka på inställningsdrevet på kortet för att göra viktiga ändringar för detta kort."
 	},
 	"falscher_link":{
-		"message":"Något blev fel! Kanske har du angivit fel länk.",
-		"describsion":"Scheinbar hast du einen falschen link eingegeben!"
+		"message":"Något blev fel! Kanske har du angivit fel länk."
 	},
 	"link_zu_benachrichtiung":{
-		"message":"Ange länken till dina notifieringar",
-		"describsion":"Geben Sie hier den Link zu Ihren Benachrichtigungen an!"
+		"message":"Ange länken till dina notifieringar"
 	},
 	"link_source":{
-		"message":"För att få denna länk",
-		"describsion":"Wo Sie den Link herbekommen."
+		"message":"För att få denna länk"
 	},
 	"page_to_launch":{
-		"message":"Sida att öppna",
-		"describsion":"Auszuf&uuml;hrende Seite"
+		"message":"Sida att öppna"
 	},
 	"wetter_warning":{
-		"message":"Var uppmärksam! Om du laddar om sidan så kommer din alarmklocka bli avlägsnad!",
-		"describsion":"Achtung: beim Neuladen der Seite geht der Wecker verloren!!! "
+		"message":"Var uppmärksam! Om du laddar om sidan så kommer din alarmklocka bli avlägsnad!"
 	},
 	"notes":{
-		"message":"Anteckningar",
-		"describsion":"Notizen"
+		"message":"Anteckningar"
 	},
 	"notes_content":{
-		"message":"Du har inga anteckningar, klicka på plus-knappen för att lägga till en!",
-		"describsion":"Noch keine Notiz angelegt! <br/> Klicke auf den + Button um das zu tun!"
+		"message":"Du har inga anteckningar, klicka på plus-knappen för att lägga till en!"
 	},
 	"new_note":{
-		"message":"Ny anteckning",
-		"describsion":"Neue Notiz"
+		"message":"Ny anteckning"
 	},
 	"new_note_explain":{
-		"message":"Du kan dela upp flera anteckningar med ett kommatecken!",
-		"describsion":" Mit einem Komma Zeichen k&ouml;nnen direkt mehrere Notizen erstellt werden!"
+		"message":"Du kan dela upp flera anteckningar med ett kommatecken!"
 	},
 	"bookmarks":{
-		"message":"Bokmärken",
-		"describsion":"Lesezeichen"
+		"message":"Bokmärken"
 	},
 	"no_bookmarks":{
-		"message":"Det finns inga bokmärken!",
-		"describsion":"Keine Bookmarks vorhanden!"
+		"message":"Det finns inga bokmärken!"
 	},
 	"recentlyclosed":{
-		"message":"Nyligen stängda",
-		"describsion":"Zuletzt aufgerufene Seiten"
+		"message":"Nyligen stängda"
 	},
 	"topnews":{
-		"message":"Nyheter",
-		"describsion":"Nachrichten"
+		"message":"Nyheter"
 	},
 	"news":{
-		"message":"Nyheter",
-		"describsion":"Nachrichten"
+		"message":"Nyheter"
 	},
 	"domain_for_news":{
 		"message":"com"
 	},
 	"wetter":{
-		"message":"Vädret",
-		"describsion":"Wettervorhersage"
+		"message":"Vädret"
 	},
 	"weather":{
-		"message":"Väder",
-		"describsion":"Wettervorhersage"
+		"message":"Väder"
 	},
 	"for":{
-		"message":"i",
-		"describsion":"f&uuml;r"
+		"message":"i"
 	},
 	"wettertyp":{
-		"message":"Typ av väder",
-		"describsion":"Wettertyp"
+		"message":"Typ av väder"
 	},
 	"luftfeuchtigkeit":{
-		"message":"Luftfuktighet",
-		"describsion":"Luftfeuchtigkeit"
+		"message":"Luftfuktighet"
 	},
 	"max_temp":{
-		"message":"Högsta temperatur",
-		"describsion":"Max. Temperatur"
+		"message":"Högsta temperatur"
 	},
 	"min_temp":{
-		"message":"Lägsta temperatur",
-		"describsion":"Max. Temperatur"
+		"message":"Lägsta temperatur"
 	},
 	"more_infos":{
-		"message":"Mer info",
-		"describsion":"Mehr Infos"
+		"message":"Mer info"
 	},
 	"weather_error":{
-		"message":"Tyvärr, något blev fel!",
-		"describsion":"Da ist leider etwas schiefgelaufen!"
+		"message":"Tyvärr, något blev fel!"
 	},
 	"ort_eingeben":{
-		"message":"Ange din plats",
-		"describsion":"Ort/PLZ/ZIP-Code eingeben"
+		"message":"Ange din plats"
 	},
 	
 	"change_bg":{
-		"message":"Klicka för att ändra bakgrundsbild!",
-		"describsion":"Hier klicken um das Hintergrundbild zu &auml;ndern!"
+		"message":"Klicka för att ändra bakgrundsbild!"
 	},
 	"donate":{
-		"message":"Donera",
-		"describsion":"Spenden"
+		"message":"Donera"
 	},
 	"share":{
-		"message":"Dela",
-		"describsion":"Teilen"
+		"message":"Dela"
 	},
 	"settings":{
-		"message":"Inställningar",
-		"describsion":"Einstellungen"
+		"message":"Inställningar"
 	},
 	"most_visited":{
-		"message":"Mest besökta",
-		"describsion":"Mei&szlig;t besucht"
+		"message":"Mest besökta"
 	},
 	"suggest":{
-		"message":"Föreslå ett kort",
-		"describsion":"Karte vorschlagen"
+		"message":"Föreslå ett kort"
 	},
 	"add_card":{
-		"message":"Lägg till kort",
-		"describsion":"Hinzuf&uuml;gen"
+		"message":"Lägg till kort"
 	},
 	"save":{
-		"message":"Spara",
-		"describsion":"Speichern"
+		"message":"Spara"
 	},
 	"cancel":{
-		"message":"Avbryt",
-		"describsion":"Abbrechen"
+		"message":"Avbryt"
 	},
 	"about_me_headline":{
 		"message":"Om mig"

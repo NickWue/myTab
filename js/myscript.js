@@ -23,6 +23,8 @@ function newtabpage(){
 		this.changemode = false;
 		new gnMenu(document.getElementById( 'gn-menu' ));
 		
+		if($('#body').css('top') < 0) localStorage['body-padding-top'] = 0;
+		
 		this.loadtopsites();
 		this.initcards();
 		
@@ -91,7 +93,7 @@ function newtabpage(){
 			cursor:"n-resize",
 			handle: ".movebody",
 			stop: function() {
-				localStorage['body-padding-top'] = $('#body').position().top;
+				localStorage['body-padding-top'] = ($('#body').position().top < 0?0:$('#body').position().top);
 			}
 		});
 		/* drag and remove wird per anpassung im shapeshift in plugins.js übernommen */
