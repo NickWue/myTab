@@ -33,7 +33,11 @@
 		"message":"Er zijn geen kaarten geselecteerd!"
 	},
 	"noch_keine_cards":{
+<<<<<<< HEAD
 		"message":"Nog geen kaarten geselecteerd!Je hebt nog geen geselecteerde kaarten. Je kunt kaarten selecteren in de wijzigingstand. Toets Ctrl of het tandwieltje linksonder om naar de wijzigingstand te schakelen. Nu kun je de gewenste kaarten initiëren, bijvoorbeeld het weer, het nieuws, of andere kaarten.Laat deze tip niet meer zien"
+=======
+		"message":"Nog geen kaarten geselecteerd!Je hebt nog geen geselecteerde kaarten. Je kunt kaarten selecteren in de wijzigingstand. Toets Ctrl of het tandwieltje linksonder om naar de wijzigingstand te schakelen. Nu kun je de gewenste kaarten initieren, bijvoorbeeld het weer, het nieuws, of andere kaarten.Laat deze tip niet meer zien"
+>>>>>>> origin/master
 	},
 	"spenden_headline":{
 		"message":"Donate"
@@ -72,7 +76,7 @@
 		"message":"Notities"
 	},
 	"notes_content":{
-		"message":" Je hebt geen notities, klik op de ‘+’ om er een te maken!"
+		"message":" Je hebt geen notities, klik op de â€˜+â€™ om er een te maken!"
 	},
 	"new_note":{
 		"message":"Nieuwe Notitie"

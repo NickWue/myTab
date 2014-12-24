@@ -96,7 +96,7 @@ function newtabpage(){
 				localStorage['body-padding-top'] = ($('#body').position().top < 0?0:$('#body').position().top);
 			}
 		});
-		/* drag and remove wird per anpassung im shapeshift in plugins.js übernommen */
+		/* drag and remove wird per anpassung im shapeshift in plugins.js Ã¼bernommen */
 		$('#settingsbar').toggle("slide",{direction: 'right'},800);
 		$('#customize-icons').toggle('clip',600);
 		$('#cardslider ul li').css('cursor',(this.changemode?'default':'move'));
