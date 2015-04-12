@@ -645,13 +645,14 @@ li.card{
 }
 #suggest textarea{
 	width:600px;
-	height:300px;
+	height:150px;
 	margin-bottom:10px;
 }
 #suggest h1{
 	color:white;
 	font-size:2.5em;
-	padding-top:5px;
+	padding:0;
+	margin:0;
 }
 #suggest .back_suggest{
 	font-size:16px;
@@ -673,4 +674,15 @@ li.card{
 	transform: translateX(-50%);
 	
 	display:none;
+}
+#newversion{
+	position: fixed;
+	right: 10;
+	bottom: 10;
+	width: 300;
+	background-color: white;
+	padding: 15px;
+	text-align: justify;
+	font-size: 1.2em;
+	z-index: 999999999999999999999999999;
 }

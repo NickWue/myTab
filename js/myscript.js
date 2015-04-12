@@ -16,6 +16,13 @@ $(document).ready(function(){
 	setInterval(refreshClock, 1000);
 	
 	jscss();
+	
+	if(typeof(localStorage['startssinceupdate']) == 'undefined') localStorage['startssinceupdate'] = 0;
+	localStorage['startssinceupdate']++;
+	
+	if (localStorage['startssinceupdate'] > 50){
+		$('#newversion').hide();
+	}
 });
 
 function newtabpage(){
