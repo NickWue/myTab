@@ -1,3 +1,11 @@
+##A new update released: [Molly - is the new myTab!](https://github.com/NickWue/Molly/), with voice input, more and faster information. And it's open source, too! :-) 
+
+[GitHub](https://github.com/NickWue/Molly/)
+[Download](goo.gl/ahvcg1)
+
+(myTab is also avaiable, but wont be updated anymore!)
+-------------------------------------
+
 #myTab
 
 #####"You have to feel it"  - a users opinion about myTab. This extension provides you with a great productivity increment and a lot of useful information in your new tab. Download: https://goo.gl/VRsFZ2
