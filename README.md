@@ -8,7 +8,7 @@
 
 #myTab
 
-#####"You have to feel it"  - a users opinion about myTab. This extension provides you with a great productivity increment and a lot of useful information in your new tab. Download: https://goo.gl/VRsFZ2
+#####"You have to feel it"  - a user's opinion about myTab. This extension provides you with a great productivity increment and a lot of useful information in your new tab. Download: https://goo.gl/VRsFZ2
 
 ###The first open source Newtab-Page for Google Chrome! 
 
@@ -19,7 +19,7 @@
 	<li>Help with finding all the bugs</li>
 </ul>
 
-####What you are allowed to do, and what not: 
+####What you are allowed to do, and what you're not allowed to do: 
 <p> You can download myTab and make it better. Please load it up in this repository again, because your update should help every user. Thank you very much. </p>
 
 ###Coming Cards:
@@ -38,17 +38,17 @@
 
 ###How to Create a new Card: (You don't need to be a pro)
 Open the file: js/cards.js 
-A new Card Object need these attributes: 
+A new Card Object needs these attributes: 
 <ul> 
 <li> headline: string</li>
 <li> content: string (-> Content of card)</li>
-<li> showsettings: (true:if the card has settings, 'plus' if it need a plus to add sth. and false if nothing of the two. </li>
+<li> showsettings: (true:if the card has settings, 'plus' if it needs a plus to add sth. and false if nothing of the two. </li>
 <li> permission: string (if the card needs extra permission -> declare it in manifest!)</li>
 <li> origin: string (if the card needs extra origin -> declare it in manifest!)</li>
-<li> init: function: this function happens everytime the page get loads and the card is init.</li>
-<li> optional if the card has settings or plus: you need the both functions settings (this will happen if the user click on the gear or plus, and the function apply will run if the user apply.</li>
+<li> init: function: this function happens everytime the page gets loaded and the card is initialized</li>
+<li> optional if the card has settings or plus: you need both function settings (this will happen if the user click on the gear or plus, and the function applied will run if the user applies it).</li>
 </ul>
-Watch out the the cards file! There are examples for everything you will need.
+Take a look at the cards file! There are examples for everything you will need.
 
 ###How to add your language! 
 <p> 
